@@ -83,6 +83,16 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
     }
   })
 
+  .state('tab.adn', {
+    url: '/adn',
+    views: {
+      'tab-adn': {
+        templateUrl: 'templates/adn.html',
+        controller: 'adnCtrl'
+      }
+    }
+  })
+
     .state('tab.Categorias', {
     url: '/Categorias',
     views: {
