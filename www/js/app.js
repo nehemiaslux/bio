@@ -93,6 +93,16 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
     }
   })
 
+   .state('tab.table', {
+    url: '/table',
+    views: {
+      'tab-table': {
+        templateUrl: 'templates/table.html',
+        controller: 'tableCtrl'
+      }
+    }
+  })
+
     .state('tab.Categorias', {
     url: '/Categorias',
     views: {

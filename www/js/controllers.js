@@ -125,6 +125,8 @@ iniciarJuego();
 });
 })
 
+
+
 .controller('ChatsCtrl', function($scope, Chats) {
   // With the new view caching in Ionic, Controllers are only called
   // when they are recreated or on app start, instead of every page change.
@@ -239,6 +241,9 @@ iniciarJuego();
   render();
     
   
+})
+.controller('tableCtrl', function($scope, table) {
+
 })
 
 .controller('AccountCtrl', function($scope) {

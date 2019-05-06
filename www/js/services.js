@@ -26,9 +26,9 @@ angular.module('starter.services', [])
     face: 'img/PABLO M..jpg'
   }, {
     id: 4,
-    name: 'ALESSANDRO DONIS ',
+    name: 'reproduccion sexual y asexual ',
     lastText: 'This is wicked good ice cream.',
-    face: 'img/ALESSANDRO.jpg'
+    face: 'img/repro.jpg'
   }];
 
   return {
