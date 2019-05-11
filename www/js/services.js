@@ -6,28 +6,28 @@ angular.module('starter.services', [])
   // Some fake testing data
   var chats = [{
     id: 0,
-    name: 'YULEISY GOMEZ',
-    lastText: 'You on your way?',
-    face: 'img/YULEISY.jpg'
+    name: 'reproduccion asexual',
+    lastText: 'También llamada reproducción vegetativa, consiste en que de un organismo se desprende una sola célula o trozos del cuerpo de un individuo ya desarrollado que, por procesos mitóticos, son capaces de formar un individuo completo genéticamente idéntico a él. Se lleva a cabo con un solo progenitor y sin la intervención',
+    face: 'img/ase.jpg'
   }, {
     id: 1,
-    name: 'STEPHANY LIMA',
-    lastText: 'Hey, it\'s me',
-    face: 'img/STEPHANY.jpg'
+    name: 'reproducción sexual',
+    lastText: 'Forma de reproducción obtenida por la unión de una célula sexual masculina y una femenina o bien por el desarrollo de un huevo fecundado.\'',
+    face: 'img/rep.jpg'
   }, {
     id: 2,
-    name: 'EDSON LUX',
-    lastText: 'I should buy a boat',
-    face: 'img/EDSON.jpg'
+    name: 'informacion',
+    lastText: 'La gametogénesis es la formación de gametos por medio de la meiosis1​a partir de células germinales.',
+    face: 'img/gam.jpg'
   }, {
     id: 3,
-    name: 'PABLO MONTERROSO',
-    lastText: 'Look at my mukluks!',
-    face: 'img/PABLO M..jpg'
+    name: 'gametos',
+    lastText: 'La célula resultante de la fusión de los gametos reúne los cromosomas de ambos, así que los gametos suelen ser células haploides',
+    face: 'img/lk.jpg'
   }, {
     id: 4,
     name: 'reproduccion sexual y asexual ',
-    lastText: 'This is wicked good ice cream.',
+    lastText: 'Reproducción asexual: división de una célula u organismo en dos partes iguales',
     face: 'img/repro.jpg'
   }];
 
