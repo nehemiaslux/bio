@@ -1,7 +1,7 @@
 angular.module('starter.controllers', [])
 
 .controller("dashCtrl",function($scope) {
-  alert("shfhdhfhfhhf")
+  alert("juego de memoria")
     $(document).ready(function(){
   
 var checkArray = []; // para verificar si las dos cartas con click son el mismo personaje
